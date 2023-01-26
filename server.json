@@ -1,0 +1,44 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "venda",
+      "price": 14000,
+      "createdAt": "2023-01-25T17:34:14.730Z"
+    },
+    {
+      "id": 2,
+      "description": "Hambúrguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 60,
+      "createdAt": "2023-01-25T16:30:14.730Z"
+    },
+    {
+      "category": "Curso",
+      "description": "Rocketseat",
+      "price": 2400,
+      "type": "outcome",
+      "createdAt": "2023-01-26T16:27:24.704Z",
+      "id": 3
+    },
+    {
+      "category": "Turing",
+      "description": "Salário + Bonificação",
+      "price": 17000,
+      "type": "income",
+      "createdAt": "2023-01-26T16:28:07.829Z",
+      "id": 4
+    },
+    {
+      "category": "Alimentação",
+      "description": "Iourgute de banana",
+      "price": 4,
+      "type": "outcome",
+      "createdAt": "2023-01-26T16:37:44.280Z",
+      "id": 7
+    }
+  ]
+}
